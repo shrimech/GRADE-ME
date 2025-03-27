@@ -1,4 +1,4 @@
-# GRADE-me
+# GRADE-ME
 Exam Simulation for 42-Network Students
 Table of Contents
 
